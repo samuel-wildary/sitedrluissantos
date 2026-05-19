@@ -27,7 +27,7 @@ git branch -M main
 
 REM Remove a origem se ja existir, ignora erros se nao existir
 git remote remove origin 2>nul
-git remote add origin git@github.com:samuel-wildary/sitedrluissantos.git
+git remote add origin https://github.com/samuel-wildary/sitedrluissantos.git
 
 git push -u origin main
 
