@@ -1,0 +1,4 @@
+.git
+.gitignore
+pre_deploy.ps1
+*.md
